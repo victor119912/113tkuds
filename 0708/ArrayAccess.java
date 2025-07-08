@@ -5,7 +5,7 @@
         // 取得第一個元素
         int firstScore = scores[0];
         // 取得最後一個元素
-        int lastScore = scores[scores.length - 1];
+        int lastScore = scores[4];
         // 取得中間的元素 (假設取第三個)
         int middleScore = scores[2];
 
